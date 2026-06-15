@@ -1,0 +1,8 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+data/user_uploaded_applicants.csv
+data/evaluated_user_uploaded_applicants.csv
+data/returned_user_dataset.csv
+.DS_Store
